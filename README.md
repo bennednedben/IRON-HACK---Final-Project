@@ -180,7 +180,7 @@ The goal of this notebook was to find the 100 most used words in the ['descripti
 Many factors determine the base rent of an apartment. 
 Many assumptions could be confirmed. 
 The location of the property has the greatest influence. 
-In addition, the following circumstances also have correlations on the base rent per squermeter in descending order:
+In addition, the following circumstances also have correlations on the base rent per squer meter in descending order:
 - condition
 - interior quality
 - year constructedRange
