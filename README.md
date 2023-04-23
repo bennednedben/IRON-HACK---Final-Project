@@ -115,18 +115,12 @@ An app was written to retrieve various statistical values for individual regions
 The menu has the following structure:
 
 MAINMENU "INFO BASE RENT GERMANY".
-
-Press [1] Info base rent germany.
-
-Press [2] Postal code search.
-
-Press [3] City search.
-
-Press [4] Federal state search.
-
-Press [5] deep City search.
-
-Press [6] to exit the program.
+- Press [1] Info base rent germany.
+- Press [2] Postal code search.
+- Press [3] City search.
+- Press [4] Federal state search.
+- Press [5] deep City search.
+- Press [6] to exit the program.
 
 
 # 06 Scaping.ipynb
